@@ -10,9 +10,6 @@ def chat():
 def good_morning():
     print("Bonjour!")
 
-def good_night():
-    print("Good night!")
-
 def good_luck():
-    print("Good luck!!")
+    print("Good luck")
     
