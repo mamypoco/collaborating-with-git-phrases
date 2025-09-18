@@ -9,4 +9,7 @@ def chat():
 
 def good_night():
     print("Good night!")
+
+def good_luck():
+    print("Good luck!!")
     
