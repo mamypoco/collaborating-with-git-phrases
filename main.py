@@ -9,3 +9,7 @@ def chat():
 
 def good_morning():
     print("bonjour!")
+
+def good_night():
+    print("Good night!")
+    
