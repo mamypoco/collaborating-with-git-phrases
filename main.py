@@ -8,7 +8,7 @@ def chat():
     print("Hi there, how are you?")
 
 def good_morning():
-    print("bonjour!")
+    print("Bonjour!")
 
 def good_night():
     print("Good night!")
